@@ -52,4 +52,6 @@ public class Main{
  이때 띄어쓰기 잘해야한다.
  
  ## 이미지 
- 
+![오토바이](./images/ride-g6c60d0549_640.png)
+
+upload files 새 이미지 파일을 뭉친파일을 올려서 쓴다
