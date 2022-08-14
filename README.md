@@ -47,7 +47,7 @@ public class Main{
  
  [네이버](https://www.naver.com) 이제는 링크가 글씨로 대체됨
  
- [네이버](https://www.naver.com,"검색사이트") 글씨에 focus하면 설명이나옴
+ [네이버](https://www.naver.com, "검색사이트") 글씨에 focus하면 설명이나옴
  
  ## 이미지 
  
